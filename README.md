@@ -1,6 +1,7 @@
 ### Olá! Yan Kaiky aqui 👨‍💻
 
 ![Yan Kaiky GitHub Stats](https://github-readme-stats.vercel.app/api?username=22-YanKaiky&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22-YanKaiky&layout=compact)](https://github.com/22-YanKaiky/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-kaiky-augusto-dos-santos-652418186/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yank.a.s.12/)
@@ -18,8 +19,6 @@
 
 
 ### Tecnologias
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22-YanKaiky&layout=compact)](https://github.com/22-YanKaiky/github-readme-stats)
 
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/pt-br/)
