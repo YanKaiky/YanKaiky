@@ -1,7 +1,7 @@
 ### Fala Dev! Yan Kaiky aqui 👨‍💻
 
-![Yan Kaiky GitHub Stats](https://github-readme-stats.vercel.app/api?username=22-YanKaiky&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22-YanKaiky&layout=compact)](https://github.com/22-YanKaiky/github-readme-stats)
+![Yan Kaiky GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKaiky&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanKaiky&layout=compact)](https://github.com/YanKaiky/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-kaiky-augusto-dos-santos-652418186/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yank.a.s.12/)
