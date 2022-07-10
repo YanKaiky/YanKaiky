@@ -38,4 +38,3 @@
 ### Sites na produção
 
 - [Cinemovie](https://cinemovie-web.netlify.app/)<br/>
-- [Yan Kaiky Augusto dos Santos](https://yankaiky.netlify.app)<br/>
