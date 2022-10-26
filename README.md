@@ -1,4 +1,4 @@
-### Fala Dev! Yan Kaiky aqui 👨‍💻
+### Hello Dev. Yan Kaiky here 👨‍💻
 
 ![Yan Kaiky GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKaiky&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanKaiky&layout=compact)](https://github.com/YanKaiky/github-readme-stats)
@@ -18,7 +18,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/)
 
 
-### Tecnologias
+### Technologies
 
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/pt-br/)
@@ -35,6 +35,6 @@
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/apps)
 
-### Sites na produção
+### Sites in production
 
 - [Cinemovie](https://cinemovie-web.netlify.app/)<br/>
