@@ -1,4 +1,4 @@
-### Hello Dev. Yan Kaiky here 👨‍💻
+### Hello Dev. Yan Kaiky here 👨🏾‍💻
 
 ![Yan Kaiky GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKaiky&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanKaiky&layout=compact)](https://github.com/YanKaiky/github-readme-stats)
